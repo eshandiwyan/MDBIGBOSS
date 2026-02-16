@@ -24,10 +24,19 @@ fi
 
 
 
-echo -e  "╔════════════════════════════════════════╗"                                                                          
-echo -e  "║ ♚ Project Name : Social Downloder║"
-echo -e  "║ ♚ Author : BIG BOSS (#bigboss/@bigboss)║"
-echo -e  "╠════════════════════════════════════════╝"
+echo -e  "════════════════════════════════════════" 
+echo -e  "                          ♚ Author  Info ♚                                 "
+echo -e  "   ♚ Author : BIG BOSS (#bigboss/@bigboss) "                                                                         
+echo -e  "                                                                                                "
+echo -e  "                                                                                                "
+echo -e  "                                                                                                "
+echo -e  "                                                                                              "
+echo -e  "    ⚜️ Media Info ⚜️                                                          "
+echo -e  "                                                                                              "
+echo -e  "   ♚ Name : %(title)s                                                       "
+echo -e  "   ♚ Url : $1                                                                           "
+echo -e  "                                                                                              "
+echo -e  "════════════════════════════════════════"
 echo -e  "╠═▶  [𝗦𝗲𝗹𝗲𝗰𝘁 𝗔 Qulity and Formats]  "
 echo -e  "╠═▶ "
 echo -e  "╠═▶ Audio Formats "
