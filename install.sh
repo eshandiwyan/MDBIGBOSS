@@ -25,10 +25,10 @@ cp termux-url-opener ~/bin/
 
 chmod +x ~/bin/termux-url-opener&&cd
 
-echo -e "\n"
-echo -e "\e[032m" "Process Complete!"
-echo -e "\e[032m" "Now you can share any Social media video download with Termux and you will be ask to select the quality of your downloaded video and after that,It will be automatically Downloaded. If You will share shorts, it will be download automatically."
-echo -e "\e[033m" "For More Awesome and Useful Tool like this Visit My WhatsApp Channel https://whatsapp.com/channel/0029VafUaD2DeON884lZ620e"
+
+echo -e "Process Complete!"
+echo -e  "Now you can share any Social media video download with Termux and you will be ask to select the quality of your downloaded video and after that,It will be automatically Downloaded. If You will share shorts, it will be download automatically."
+echo -e  "For More Awesome and Useful Tool like this Visit My WhatsApp Channel https://whatsapp.com/channel/0029VafUaD2DeON884lZ620e"
 echo -e " "
 echo -e " Hey dear Installetion and update succesfull pleace type (cd) command"
 echo -e " Go to The home "
@@ -36,3 +36,4 @@ echo -e " open another social media app exsample : youtube  chooce do you want t
 echo -e " click share icon and find termux or same like app (TEL) Or any and automaticaly show "
 echo -e " After select format or Qulity download"
 echo -e " Enjoi my tool have a nice day"
+echo -e " cd command enter (go to home storage)"
